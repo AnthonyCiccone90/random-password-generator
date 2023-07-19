@@ -19,4 +19,4 @@ https://github.com/AnthonyCiccone90/random-password-generator
 
 ----------
 
-Starter code and user today prodived by University of Denver FSF Bootcamp
+Starter code and user story prodived by University of Denver FSF Bootcamp
