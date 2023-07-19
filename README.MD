@@ -15,6 +15,6 @@ This challenge was to create a random password generator. The requirements (amog
 https://anthonyciccone90.github.io/random-password-generator/
 
 ## Link to GitHub repsitory 
-
+https://github.com/AnthonyCiccone90/random-password-generator
 
 Starter code and user today prodived by University of Denver FSF Bootcamp
