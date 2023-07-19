@@ -6,7 +6,7 @@ I WANT to randomly generate a password that meets certain criteria
 SO THAT I can create a strong password that provides greater security
 
 ## Description
-This challenge was to create a random password generator. The requirements (amogst other criteria) were to create random passwords using lowercase, uppercase, numeric and and special characters. Below is a screenshot of a sample password generated using the code.
+This challenge was to create a random password generator. The requirements (amogst other criteria) were to create random passwords using lowercase, uppercase, numeric and special characters. Below is a screenshot of the sample password generator using the code.
 
 
 ![Alt text](<Screenshot 2023-07-19 at 12.01.45.png>)
