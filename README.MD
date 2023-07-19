@@ -14,7 +14,7 @@ This challenge was to create a random password generator. The requirements (amog
 ## Link to deployed page
 https://anthonyciccone90.github.io/random-password-generator/
 
-## Link to GitHub repsitory 
+## Link to GitHub repository 
 https://github.com/AnthonyCiccone90/random-password-generator
 
 ----------
